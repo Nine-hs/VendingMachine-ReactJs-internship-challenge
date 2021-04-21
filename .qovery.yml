@@ -1,0 +1,11 @@
+---
+application:
+  name: "fullstackdev-internship-challenge"
+  project: "test"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-fullstackdev-internship-challenge"
+  routes:
+  - application_name: "fullstackdev-internship-challenge"
+    paths:
+    - "/*"
